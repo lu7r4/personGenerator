@@ -1,0 +1,22 @@
+body {
+    height: 100vh;
+    font-size: 1.4em;
+    font-weight: 600;
+    font-family: 'Open Sans';
+}
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.data {
+    padding-bottom: 2%;
+}
+.data_name {
+    padding-bottom: 1%;
+    font-weight: 400;
+}
+.card-header p {
+    font-size: 1.3em;
+}
